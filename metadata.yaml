@@ -1,0 +1,29 @@
+_repo: Brief-Guide-National-Gallery-of-Art_66746
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2021-11-15'
+identifiers:
+  gutenberg: '66746'
+language: en
+pgterms:marc905: 20201125141902anonymous
+pgterms:marc906: '1976'
+pgterms:marc907: US
+production_note: Stephen Hutcheson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net
+publication_note: United States :U. S. Government Printing Office,1976.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Brief Guide: National Gallery of Art'
+url: http://www.gutenberg.org/ebooks/66746
